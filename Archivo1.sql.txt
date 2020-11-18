@@ -1,1 +1,2 @@
 Select * from Empleados
+where Empleado = 'Secretaria'
